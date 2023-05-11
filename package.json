@@ -9,6 +9,17 @@
   },
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+   "repository": {
+       "type": "git",
+        "url": "git+https://github.com/MaryChill/ajs.git"
+  },
+    "bugs": {
+    "url": "https://github.com/MaryChill/ajs/issues"
+  },
+  "homepage": "https://github.com/MaryChill/ajs#readme",
   "devDependencies": {
     "@babel/cli": "^7.21.5",
     "@babel/core": "^7.21.8",
@@ -16,18 +27,5 @@
     "babel-loader": "^9.1.2",
     "webpack": "^5.82.1",
     "webpack-cli": "^5.1.1"
-  },
-    "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
-  },
-   "repository": {
-       "type": "git",
-        "url": "git+https://github.com/MaryChill/ajs.git"
-},
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-    "url": "https://github.com/MaryChill/ajs/issues"
-},
-    "homepage": "https://github.com/MaryChill/ajs#readme",
+  }   
 }
