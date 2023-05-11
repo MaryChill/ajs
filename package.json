@@ -19,5 +19,15 @@
   },
     "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
-  }
+  },
+   "repository": {
+       "type": "git",
+        "url": "git+https://github.com/MaryChill/ajs.git"
+},
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/MaryChill/ajs/issues"
+},
+    "homepage": "https://github.com/MaryChill/ajs#readme",
 }
